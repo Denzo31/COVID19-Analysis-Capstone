@@ -40,8 +40,6 @@ This capstone project analyzes the WHO COVID-19 global dataset to identify patte
 
 ## 🔧 Technical Implementation
 
-### Python Analytics (22/22 marks)
-
 #### 1. Data Preprocessing ✅
 - **Challenge**: 484k+ rows causing memory overflow and processing delays
 - **Solution**: Strategic sampling and memory optimization
@@ -77,8 +75,6 @@ This capstone project analyzes the WHO COVID-19 global dataset to identify patte
 - **Processing Time**: 45 minutes → 30 seconds (99% improvement)
 - **Model Training**: Hanging → <60 seconds (100% success rate)
 
-### Power BI Dashboard (14/14 marks)
-
 #### Dashboard Design ✅
 - **5 Interactive Pages**: Global Overview, Regional Analysis, Temporal Trends, Clustering Results, Forecasting
 - **Advanced Features**: Custom DAX measures, interactive filters, drill-down capabilities
@@ -86,8 +82,6 @@ This capstone project analyzes the WHO COVID-19 global dataset to identify patte
 - **Files**: `powerbi/COVID19_Dashboard_Guide.md`
 
 ---
-
-## 🚀 Innovation Component (4/4 marks)
 
 ### Custom Ensemble Outbreak Prediction System
 - **Technical Innovation**: Multi-algorithm voting approach combining Random Forest, Gradient Boosting, and Logistic Regression
