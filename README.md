@@ -4,7 +4,7 @@
 **Student Number**: 26506  
 **Course**: INSY 8413 | Introduction to Big Data Analytics  
 **Academic Year**: 2024-2025, SEM III  
-**Assistant Lecturer**: Eric Maniraguha
+**Lecturer**: Eric Maniraguha
 
 ---
 
