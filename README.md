@@ -287,19 +287,8 @@ jupyter notebook notebooks/covid19_optimized_analysis.ipynb
 **Student**: RUTAGANIRA SHEMA DERRICK  
 **Student Number**: 26506  
 **Course**: INSY 8413 | Introduction to Big Data Analytics  
-**Assistant Lecturer**: Eric Maniraguha  
+**Lecturer**: Eric Maniraguha  
 
 ---
 
-## 📊 Project Status
-
-**Status**: ✅ **COMPLETED AND READY FOR SUBMISSION**  
-**All Requirements Met**: ✅ **YES (40/40 marks achieved)**  
-**Innovation Implemented**: ✅ **YES (Custom ensemble system)**  
-**GitHub Repository**: ✅ **READY WITH COMPLETE DOCUMENTATION**  
-**Power BI Dashboard**: ✅ **DESIGNED WITH SPECIFICATIONS**  
-**Academic Standards**: ✅ **FULLY COMPLIANT**  
-
----
-
-*This comprehensive COVID-19 analysis demonstrates mastery of big data analytics, machine learning, and professional data science practices while providing valuable insights for global public health policy and pandemic preparedness.*k
+*This comprehensive COVID-19 analysis demonstrates mastery of big data analytics, machine learning, and professional data science practices while providing valuable insights for global public health policy and pandemic preparedness.*
