@@ -104,12 +104,10 @@ CAPSTONE/
 ├── data/
 │   ├── raw/                          # Original WHO dataset
 │   │   └── WHO-COVID-19-global-daily-data.csv
-│   └── processed/                    # Optimized datasets
+│   └── processed/                    # Optimized dataset
 │       ├── df_clean_sample.csv       # Cleaned data (24,995 rows)
-│       └── df_features_sample.csv    # Engineered features
 ├── notebooks/
 │   ├── covid19_comprehensive_analysis.ipynb    # Main analysis
-│   └── covid19_optimized_analysis.ipynb        # Optimized version
 ├── src/
 │   ├── __init__.py                   # Package initialization
 │   ├── optimized_preprocessing.py    # Advanced data processing
@@ -118,12 +116,9 @@ CAPSTONE/
 ├── visualizations/                   # Generated charts and plots
 │   └── global_temporal_trends.png
 ├── powerbi/
-│   └── COVID19_Dashboard_Guide.md    # Complete dashboard specifications
 ├── reports/
 │   ├── CAPSTONE_PROJECT_REPORT.md    # Complete project documentation
 │   ├── TECHNICAL_SOLUTIONS_SUMMARY.md # Issues resolved
-│   ├── EXAM_SUBMISSION_CHECKLIST.md  # Requirements verification
-│   └── POWERPOINT_PRESENTATION_OUTLINE.md # Presentation guide
 ├── docs/
 │   └── Project_Summary.md            # Technical implementation details
 ├── requirements.txt                  # Python dependencies
@@ -245,8 +240,6 @@ jupyter notebook notebooks/covid19_optimized_analysis.ipynb
 ### Complete Project Documentation
 - **Project Report**: `reports/CAPSTONE_PROJECT_REPORT.md` - Comprehensive analysis
 - **Technical Solutions**: `reports/TECHNICAL_SOLUTIONS_SUMMARY.md` - Issues resolved
-- **Submission Checklist**: `reports/EXAM_SUBMISSION_CHECKLIST.md` - Requirements met
-- **PowerPoint Guide**: `reports/POWERPOINT_PRESENTATION_OUTLINE.md` - Presentation materials
 
 ### Code Documentation
 - All functions include comprehensive docstrings
